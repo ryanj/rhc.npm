@@ -7,3 +7,12 @@ Check in here if you're interested in hacking on a javascript port -> http://git
 Currently, this does nothing:
 
     npm install rhc
+
+Try this instead:
+
+    sudo gem install rhc
+
+For additional help, see:
+
+ * https://www.openshift.com/get-started#cli
+ * https://www.openshift.com/get-started/node-js 
